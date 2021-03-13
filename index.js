@@ -1,5 +1,6 @@
 //MY first PROJECT//
 
+//  //
 
 //Thanks//
 var input = prompt("Enter your mark of 1 subject")
