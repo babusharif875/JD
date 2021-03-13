@@ -1,6 +1,3 @@
 JD
-//first project//
-UPDATE
-
-WEBDEVOLOPER
-//next//
+//first project
+jihad sharif
